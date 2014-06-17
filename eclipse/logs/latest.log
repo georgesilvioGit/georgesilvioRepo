@@ -1,0 +1,42 @@
+[22:58:54] [main/INFO]: Setting user: ForgeDevName
+[22:58:55] [Client thread/INFO]: LWJGL Version: 2.9.0
+[22:59:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[22:59:03] [Sound Library Loader/INFO]: Sound engine started
+[22:59:03] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:59:03] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:59:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[22:59:04] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:59:04] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:59:05] [Sound Library Loader/INFO]: Sound engine started
+[22:59:06] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[22:59:11] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
+[22:59:11] [Server thread/INFO]: Generating keypair
+[22:59:11] [Server thread/INFO]: Converting map!
+[22:59:11] [Server thread/INFO]: Scanning folders...
+[22:59:11] [Server thread/INFO]: Total conversion count is 0
+[22:59:12] [Server thread/INFO]: Preparing start region for level 0
+[22:59:13] [Server thread/INFO]: Preparing spawn area: 5%
+[22:59:14] [Server thread/INFO]: Preparing spawn area: 13%
+[22:59:15] [Server thread/INFO]: Preparing spawn area: 24%
+[22:59:16] [Server thread/INFO]: Preparing spawn area: 34%
+[22:59:17] [Server thread/INFO]: Preparing spawn area: 44%
+[22:59:18] [Server thread/INFO]: Preparing spawn area: 56%
+[22:59:19] [Server thread/INFO]: Preparing spawn area: 64%
+[22:59:20] [Server thread/INFO]: Preparing spawn area: 77%
+[22:59:21] [Server thread/INFO]: Preparing spawn area: 88%
+[22:59:22] [Server thread/INFO]: Preparing spawn area: 98%
+[22:59:22] [Server thread/INFO]: ForgeDevName[local:E:903a27c4] logged in with entity id 281 at (72.5, 75.0, 255.5)
+[22:59:22] [Server thread/INFO]: ForgeDevName joined the game
+[22:59:30] [Server thread/INFO]: ForgeDevName has just earned the achievement [Taking Inventory]
+[22:59:30] [Client thread/INFO]: [CHAT] ForgeDevName has just earned the achievement [Taking Inventory]
+[23:00:55] [Server thread/INFO]: Saving and pausing game...
+[23:00:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:00:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:00:55] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:01:01] [Server thread/INFO]: Stopping server
+[23:01:01] [Server thread/INFO]: Saving players
+[23:01:01] [Server thread/INFO]: Saving worlds
+[23:01:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:01:01] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:01:01] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:01:05] [Client thread/INFO]: Stopping!
